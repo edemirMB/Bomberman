@@ -1,0 +1,18 @@
+﻿  Cancha.cpp
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Cancha.cpp(15,14): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Cancha.cpp(15,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Cancha.cpp(94,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Controladora.cpp
+  Juego.cpp
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Juego.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Juego.h(119,3): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+  (compilando archivo de origen "Juego.cpp")
+  
+  Jugador.cpp
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Jugador.cpp(27,61): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\Jugador.cpp(27,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  Cancha.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Bomberman.vcxproj -> C:\Users\Lenovo\OneDrive\Imágenes\Bomberman\Bomberman\x64\Debug\Bomberman.exe
